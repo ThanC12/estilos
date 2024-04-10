@@ -1,0 +1,19 @@
+/* SELECTOR UNIVERSAL*/
+*{
+    background-color: bisque;
+}
+/*h1{
+    color: brown !important;
+    text-align:  center;
+}*/
+/*selectores de tipo ID*/
+#titulo{
+    color: rgb(77, 77, 184);
+    text-align: right;
+    
+}
+/*SELECTOR TIPO CLASE*/
+.letra_grande{
+    color: blueviolet;
+    
+}
